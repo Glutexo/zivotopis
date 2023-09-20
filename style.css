@@ -12,7 +12,8 @@ a:visited {
 }
 
 header, main {
-    padding: 1em 4em;    
+    padding: 2em 4em;
+    display: flow-root;
 }
 header {
     background-color: black;
@@ -23,5 +24,7 @@ header img {
     height: 100px;
     float: right;
 }
-
+header h1 {
+    margin: 1em 0;
+}
 
