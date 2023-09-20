@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    font-family: Helvetica, sans-serif;
+    color: black;
+}
+
+a {
+    color: black;
+}
+a:visited {
+    color: darkgrey;
+}
+
+header, main {
+    padding: 1em 4em;    
+}
+header {
+    background-color: black;
+    color: white;
+}
+header img {
+    width: 100px;
+    height: 100px;
+    float: right;
+}
+
+
