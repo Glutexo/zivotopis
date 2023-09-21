@@ -17,7 +17,10 @@ header, main {
 }
 header {
     background-color: black;
+}
+header, header a, header a:visited {
     color: white;
+    text-decoration: none;
 }
 header img {
     width: 100px;
