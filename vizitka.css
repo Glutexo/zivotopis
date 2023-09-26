@@ -60,3 +60,11 @@ a.github:hover,
 a.github:active {
     background-color: #0969da;
 }
+a.linkedin {
+    background-color: #0a66c2;
+    color: white;
+}
+a.linkedin:hover,
+a.linkedin:active {
+    background-color: #8443ce;
+}
