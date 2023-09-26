@@ -7,7 +7,7 @@ body {
 }
 main {
     width: 700px;
-    margin: 50px auto;
+    margin: 150px auto;
     display: flow-root;
     text-align: left;
 }
