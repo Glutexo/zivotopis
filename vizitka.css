@@ -4,6 +4,7 @@ body {
     font-family: Nunito, sans-serif;
     margin: 0;
     text-align: center;
+    background-color: #b2bec3;
 }
 main {
     width: 700px;
@@ -22,8 +23,10 @@ main > img {
 }
 main > div {
     border: 1px solid black;
+    border-radius: 10px;
     box-shadow: 5px 5px 5px grey;
     margin: 75px;
+    background-color: white;
 }
 main > div > div {
     margin: 30px;
