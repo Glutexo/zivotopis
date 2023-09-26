@@ -28,6 +28,18 @@ main > div {
 main > div > * {
     margin: 30px;
 }
+main > div > a {
+    display: block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: bold;
+}
+
 h1 {
     font-size: 36px;
     font-weight: bold;
@@ -36,4 +48,12 @@ h1 {
 p {
     font-size: 18px;
     text-align: justify;
+}
+a.github {
+    background-color: #1F2328;
+    color: white;
+}
+a.github:hover,
+a.github:active {
+    background-color: #0969da;
 }
