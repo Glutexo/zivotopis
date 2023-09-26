@@ -7,8 +7,8 @@ body {
 }
 main {
     width: 700px;
-    margin: 50px 0;
-    display: inline flow-root;
+    margin: 50px auto;
+    display: flow-root;
     text-align: left;
 }
 main > img {
