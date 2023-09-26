@@ -24,16 +24,16 @@ main > div {
     border: 1px solid black;
     box-shadow: 5px 5px 5px grey;
     margin: 75px;
-    padding: 30px;
 }
-main h1 {
+main > div > * {
+    margin: 30px;
+}
+main > div h1 {
     font-size: 36px;
     font-weight: bold;
     color: #d63031;
-    margin: 0 0 30px;
 }
-main p {
+main > div p {
     font-size: 18px;
     text-align: justify;
-    margin: 30px 0;
 }
