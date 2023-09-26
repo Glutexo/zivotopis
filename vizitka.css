@@ -25,10 +25,13 @@ main > div {
     box-shadow: 5px 5px 5px grey;
     margin: 75px;
 }
-main > div > * {
+main > div > div {
     margin: 30px;
 }
-main > div > a {
+main > div > div > * {
+    margin: 30px 0;
+}
+main > div > div > a {
     display: block;
     margin-top: 5px;
     margin-bottom: 5px;
